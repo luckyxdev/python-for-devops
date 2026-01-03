@@ -2,7 +2,7 @@
 
 ## Task
 
-You will:
+created a Python script that:
 - Create a class to represent a Log Analyzer
 - Move related logic into class methods
 - Instantiate the class and run the analysis
