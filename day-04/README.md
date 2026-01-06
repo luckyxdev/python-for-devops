@@ -1,4 +1,4 @@
-# Day 04 – AWS Automation with Python (Boto3 + CDK)
+# Day 04 – AWS Automation with Python (Boto3)
 
 ## Task
 
@@ -9,7 +9,7 @@ Use **Python (Boto3)** to read information from AWS
 
 ## AWS Automation using Python (Boto3)
 
-created a Python script that:
+I created a Python script that:
 
 - Connects to the AWS account
 - Lists:
